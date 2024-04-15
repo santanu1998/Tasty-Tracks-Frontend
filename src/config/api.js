@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-export const API_URL = "http://localhost:5454";
+// export const API_URL = "http://localhost:8080";
+export const API_URL = "http://51.21.41.40:8080";
 
 
 export const api = axios.create({
